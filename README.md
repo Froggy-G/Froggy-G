@@ -2,9 +2,8 @@
 
 coding / chilling
 ---
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true&border_color=74f390&ring_color=74f390)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Froggy-G&theme=dark&background=000000&border_color=74f390&layout=compact">
+![Stats](https://github-readme-stats.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true&border_color=74f390&ring_color=74f390)                      
+![gay](https://github-readme-stats.vercel.app/api/top-langs/?username=Froggy-G&theme=dark&background=000000&border_color=74f390&layout=compact)
 ---
 Skills: *Python • Docker • SQL • RESTful API • Django • FastAPI • PostgreSQL*
 ---
