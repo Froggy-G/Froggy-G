@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Froggy-G/Froggy-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+coding / chilling
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Froggy-G&theme=dark&background=000000) <img align="right" src="https://github-readme-stats.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true">
+---
+Skills: *Python • Docker • SQL • RESTful API • Django • FastAPI • PostgreSQL*
+---
+<div id="header" align="center">
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Froggy-G)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tired2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://telegram.me/f_tear)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/dmitry-povarov)
+</div>
