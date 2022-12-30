@@ -1,5 +1,3 @@
-### Hi there 👋
-
 coding / chilling
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true&border_color=74f390&ring_color=74f390)
