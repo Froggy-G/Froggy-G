@@ -3,6 +3,8 @@ coding / chilling
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true&border_color=74f390&ring_color=74f390)
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Froggy-G&theme=dark&background=000000&border_color=74f390&layout=compact)
+
+![CodeWars](https://www.codewars.com/users/tired54/badges/large)
 ---
 Skills: *Python • Docker • SQL • RESTful API • Django • FastAPI • PostgreSQL*
 ---
@@ -12,8 +14,4 @@ Skills: *Python • Docker • SQL • RESTful API • Django • FastAPI • Po
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/tired2)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://telegram.me/f_tear)
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='habr' height='40'>](https://career.habr.com/dmitry-povarov)
-</div>
-<div align="center">
-  
-  ![CodeWars](https://www.codewars.com/users/tired54/badges/large)
 </div>
