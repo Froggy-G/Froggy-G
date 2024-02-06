@@ -3,8 +3,6 @@ coding / chilling
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Froggy-G&theme=dark&background=000000&show_icons=true&border_color=74f390&ring_color=74f390)
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Froggy-G&theme=dark&background=000000&border_color=74f390&layout=compact)
-
-![CodeWars](https://www.codewars.com/users/tired54/badges/large)
 ---
 Skills: *Python • Docker • SQL • RESTful API • Django • FastAPI • PostgreSQL*
 ---
